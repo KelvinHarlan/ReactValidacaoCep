@@ -1,0 +1,10 @@
+.container{
+  border: 1px solid red;
+  padding: 20px;
+}
+
+.formCep{
+  background-color: rgb(70, 70, 70);
+  padding: 10px;
+  border-radius: 5px;
+}
